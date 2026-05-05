@@ -68,7 +68,7 @@ export const projects = [
         "screenshots": [
             { "src": "/media/Grandma/Login.png", "caption": "Landing page – Welcome experience" },
             { "src": "/media/Grandma/HomePage.png", "caption": "Recipe dashboard for users" },
-            { "src": "/media/Grandma/add-recipe.png", "caption": "Add new recipe workflow" }
+            { "src": "/media/Grandma/add-recipe.png", "caption": "Add new recipe workflow" },
             { "src": "/media/Grandma/aichat.png", "caption": "Talk with an AI agent using API key" }
         ],
         "videoUrl": "",
