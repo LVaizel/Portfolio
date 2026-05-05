@@ -2,7 +2,7 @@
   "name": "gurvansh-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://LVaizel.github.io/portfolio",
+  "homepage": "https://LVaizel.github.io/Portfolio",
   "dependencies": {
     "ajv": "^8.20.0",
     "ajv-keywords": "^5.1.0",
